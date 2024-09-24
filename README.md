@@ -18,3 +18,4 @@ The purpose of this shader is to act as a realtime line-detection algorithm on t
 ### After:
 <img src="https://github.com/user-attachments/assets/2baa824a-fe81-4bb7-aa96-93f58641ab0b" width=50% height=50%>
 
+(Render time of ~.5ms)
